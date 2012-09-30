@@ -3,3 +3,9 @@
 
 //Only dependencies not the ProjectRoot ->duplicate target exception
 //git:https://github.com/FunThomas424242/test.git
+
+// Eclipse Platform
+get http://ftp-stud.fht-esslingen.de/pub/Mirrors/eclipse/eclipse/downloads/drops/R-3.7.2-201202080800/eclipse-platform-3.7.2-win32-x86_64.zip
+get http://ftp-stud.fht-esslingen.de/pub/Mirrors/eclipse/eclipse/downloads/drops/R-3.7.2-201202080800/eclipse-3.7.2-delta-pack.zip
+get http://ftp-stud.fht-esslingen.de/pub/Mirrors/eclipse/eclipse/downloads/drops/R-3.7.2-201202080800/org.eclipse.jdt-3.7.2.zip
+
