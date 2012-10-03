@@ -2,7 +2,11 @@
 // Use the 'git:' prefix to clone a git repository.
 
 //Only dependencies not the ProjectRoot ->duplicate target exception
-git:https://github.com/FunThomas424242/test.git
+//git:https://github.com/FunThomas424242/test.git
+
+// BuildBoost Extensions
+git:https://github.com/DevBoost/BuildBoost.git!Extensions/JUnit/
+git:https://github.com/DevBoost/BuildBoost.git!Extensions/UpdateSite/
 
 // Eclipse Platform
 get:http://ftp-stud.fht-esslingen.de/pub/Mirrors/eclipse/eclipse/downloads/drops/R-3.7.2-201202080800/eclipse-platform-3.7.2-win32-x86_64.zip
