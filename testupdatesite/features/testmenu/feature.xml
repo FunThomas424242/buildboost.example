@@ -17,16 +17,13 @@
       [Enter License Description here.]
    </license>
 
-   <requires>
-      <import feature="org.eclipse.ui"/>
-      <import feature="org.eclipse.core.runtime"/>
-   </requires>
+   
 
    <plugin
          id="testmenu"
          download-size="0"
          install-size="0"
-         version="0.0.0"
+         version="0.0.0.v0"
          unpack="false"/>
 
 </feature>
