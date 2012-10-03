@@ -2,7 +2,7 @@
 <feature
       id="testmenu"
       label="TestMenu"
-      version="0.0.0"
+      version="0.0.0.v0"
       provider-name="FunThomas424242">
 
    <description url="http://www.example.com/description">
