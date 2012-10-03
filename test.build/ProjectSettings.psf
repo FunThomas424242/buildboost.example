@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<psf version="2.0">
+<provider id="org.eclipse.egit.core.GitProvider">
+<project reference="1.0,https://github.com/FunThomas424242/test.git,master,test.build"/>
+<project reference="1.0,https://github.com/FunThomas424242/test.git,master,testmenu"/>
+<project reference="1.0,https://github.com/FunThomas424242/test.git,master,testupdatesite"/>
+</provider>
+</psf>
