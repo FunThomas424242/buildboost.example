@@ -1,0 +1,8 @@
+version = 1.0.0
+site/vendor = FunThomas424242
+//site/uploadPath = www.example.org:/srv/www_feature.org/update_trunk
+//site/usernameProperty = UPLOAD_USER
+//site/passwordProperty = UPLOAD_PASS
+
+feature/testmenu/version = $version
+feature/testmenu/name = TestMenu
