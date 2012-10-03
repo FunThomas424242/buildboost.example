@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/testmenu_0.0.0.jar" id="testmenu" version="0.0.0">
+   <feature url="features/testmenu_0.0.0.v0.jar" id="testmenu" version="0.0.0.v0">
       <category name="test"/>
    </feature>
    <category-def name="test" label="nur zum test"/>
