@@ -1,0 +1,2 @@
+download the file: http://www.buildboost.org/build.xml and save it in an empty workspace folder
+then build the project via shell command: ant -DrootRepository="git:https://github.com/FunThomas424242/test.git"
