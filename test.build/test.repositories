@@ -2,7 +2,7 @@
 // Use the 'git:' prefix to clone a git repository.
 
 //Only dependencies not the ProjectRoot ->duplicate target exception
-//git:https://github.com/FunThomas424242/test.git
+//git:https://github.com/FunThomas424242/buildboost.example.git
 
 // BuildBoost Extensions
 git:https://github.com/DevBoost/BuildBoost.git!Extensions/JUnit/
